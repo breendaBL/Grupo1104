@@ -3,6 +3,6 @@
 int main(){
   printf("\nHola Mundo");
   printf("\nFernada Fragoso\n")
-  printf("\Brenda Peralta\");
+  printf("\nBrenda Peralta\n");
   return 0;
 }
